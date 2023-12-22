@@ -24,15 +24,15 @@ text-decoration: none;
 color: black;
 }
 nav ul li a:hover{
-background-color:#DCFFD8;
-border-bottom: 5px solid #DCFFD8;
+background-color:#C7FF00;
+border-bottom: 5px solid #C7FF00;
 }
 nav ul li.current{
 font-weight: bold;
 }
 nav ul li.current a{
-border-bottom: 5px solid #55FF41;
-color: #55FF41;
+border-bottom: 5px solid #9EBC35;
+color: #9EBC35;
 }
 
 .gosick {
